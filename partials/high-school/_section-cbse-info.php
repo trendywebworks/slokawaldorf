@@ -122,7 +122,7 @@
                                             <th scope="row">5</th>
                                             <td>Copy of valid building safety certificate as per the National Building
                                                 Code</td>
-                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2025/06/Buidling-Safety-Certificate-For-WEBSITE.pdf" target="_blank" rel="noopener"> View </a></td>
+                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2026/05/Building-Safety-Certificate-2026.pdf" target="_blank" rel="noopener"> View </a></td>
                                         </tr>
                                         <tr>
                                             <th scope="row">6</th>
@@ -140,7 +140,7 @@
                                         <tr>
                                             <th scope="row">8</th>
                                             <td>Copy of sanitation certificate</td>
-                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2024/11/sanitory-certificate-24-25.pdf" target="_blank" rel="noopener"> View </a></td>
+                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2026/05/sanitary-certificate-2026.pdf" target="_blank" rel="noopener"> View </a></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -174,7 +174,7 @@
                                         <tr>
                                             <th scope="row">3</th>
                                             <td>Annual academic calendar</td>
-                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2024/11/20241028053305.pdf" target="_blank" rel="noopener"> View </a></td>
+                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2026/05/Sloka-calender-for-grades-6-to-12-25-26.pdf" target="_blank" rel="noopener"> View </a></td>
                                         </tr>
                                         <tr>
                                             <th scope="row">4</th>
@@ -184,18 +184,18 @@
                                         <tr>
                                             <th scope="row">5</th>
                                             <td>List of Parent Teachers Association (PTA) Members</td>
-                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2024/11/PTA-24-25.pdf" target="_blank" rel="noopener"> View </a></td>
+                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2026/05/PTA-25-26.pdf" target="_blank" rel="noopener"> View </a></td>
                                         </tr>
                                         <tr>
                                             <th scope="row">6</th>
                                             <td>Last Three-Year result of the board examination as per applicablility
                                             </td>
-                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2024/11/3-Year-Result-24-25.pdf" target="_blank" rel="noopener"> View </a></td>
+                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2026/05/3-year-result-2026.pdf" target="_blank" rel="noopener"> View </a></td>
                                         </tr>
                                         <tr>
                                             <th scope="row">7</th>
                                             <td>Student Head Count</td>
-                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2024/11/Children-Count-24-25.pdf" target="_blank" rel="noopener"> View </a></td>
+                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2026/05/student-head-count-25-26-feb-25-26.pdf" target="_blank" rel="noopener"> View </a></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -258,7 +258,7 @@
                                         <tr>
                                             <th scope="row">6</th>
                                             <td>Staff Statement</td>
-                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2025/06/Staff-Statement-25-26.pdf" target="_blank" rel="noopener"> View </a></td>
+                                            <td><a class="text-purple" href="https://slokawaldorf.in/wp-content/uploads/2026/05/Staff-Statement-25-26.pdf" target="_blank" rel="noopener"> View </a></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -280,7 +280,6 @@
                                             <th style="width: 10%;" scope="col">S. No.</th>
                                             <th style="width: 10%;" scope="col">Year</th>
                                             <th style="width: 15%;" scope="col">No. of Registered Students</th>
-                                            <th style="width: 15%;" scope="col">No. of Students</th>
                                             <th style="width: 15%;" scope="col">Pass</th>
                                             <th style="width: 15%;" scope="col">Remarks</th>
                                         </tr>
@@ -291,13 +290,11 @@
                                             <td>2020-21</td>
                                             <td>23</td>
                                             <td>23</td>
-                                            <td>23</td>
                                             <td>100%</td>
                                         </tr>
                                         <tr>
                                             <th scope="row">2</th>
                                             <td>2021-22</td>
-                                            <td>47</td>
                                             <td>47</td>
                                             <td>47</td>
                                             <td>100%</td>
@@ -307,7 +304,6 @@
                                             <td>2022-23</td>
                                             <td>33</td>
                                             <td>33</td>
-                                            <td>33</td>
                                             <td>100%</td>
                                         </tr>
                                         <tr>
@@ -315,13 +311,11 @@
                                             <td>2023-24</td>
                                             <td>32</td>
                                             <td>32</td>
-                                            <td>32</td>
                                             <td>100%</td>
                                         </tr>
 <tr>
                                             <th scope="row">5</th>
                                             <td>2024-25</td>
-                                            <td>51</td>
                                             <td>51</td>
                                             <td>51</td>
                                             <td>100%</td>
@@ -353,10 +347,10 @@
                                     <tbody>
                                         <tr>
                                             <th scope="row">1</th>
-                                            <td>NA</td>
-                                            <td>NA</td>
-                                            <td>NA</td>
-                                            <td>NA</td>
+                                            <td>2025-26</td>
+                                            <td>9</td>
+                                            <td>9</td>
+                                            <td>100%</td>
                                         </tr>
                                     </tbody>
                                 </table>
