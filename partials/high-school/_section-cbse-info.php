@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row justify-content-center padding-20px-bottom">
             <div class="col-12 col-lg-10 col-md-11 text-center wow fadeIn">
-                <h5 class="alt-font margin-15px-bottom">CBSE Information</h5>
+                <h5 class="alt-font margin-15px-bottom">SLOKA CBSE MANDATORY PUBLIC DISCLOSURE</h5>
             </div>
         </div>
         <div class="row justify-content-center sm-padding-five-lr">
