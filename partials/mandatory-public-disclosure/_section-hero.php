@@ -11,25 +11,13 @@
                             <div class="padding-50px-tb wow fadeInUpBig sm-padding-five-lr">
                                 <div class="">
 
-                                    <!-- start page title -->
-                                    <p class="text-small text-white margin-10px-bottom">CURRICULUM</p>
-
                                     <h1 class="Underline-Sloka text-white-2 alt-font"><span class="rainbow-energetic">
-                                            High School </span></h1>
+                                            Mandatory Public Disclosure </span></h1>
                                 </div>
                             </div>
-                            <div class="CurriculumSubMenu alt-font wow fadeIn" data-wow-delay="0.6s">
-                                <ul>
-                                    <li><a href="https://slokawaldorf.in//what-is-waldorf-education/"> Waldorf Education
-                                        </a></li>
-                                    <li><a href="https://slokawaldorf.in//mixed-age-kindergarten/"> Mixed-Age
-                                            Kindergarten </a></li>
-                                    <li><a href="https://slokawaldorf.in//lower-school/"> Lower School </a></li>
-                                    <li><a href="https://slokawaldorf.in//middle-school/"> Middle School </a></li>
-                                    <li><a class="active" href="https://slokawaldorf.in//high-school/"> High School </a>
-                                    </li>
-                                </ul>
+                            <div class="CurriculumSubMenu alt-font wow fadeIn" data-wow-delay="0.6s">                                
                             </div>
+                            
                         </div>
                     </div>
                 </div>
