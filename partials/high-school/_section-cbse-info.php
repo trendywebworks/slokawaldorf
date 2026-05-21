@@ -280,7 +280,7 @@
                                             <th style="width: 10%;" scope="col">S. No.</th>
                                             <th style="width: 10%;" scope="col">Year</th>
                                             <th style="width: 15%;" scope="col">No. of Registered Students</th>
-                                            <th style="width: 15%;" scope="col">Pass</th>
+                                            <th style="width: 15%;" scope="col">No. of Students Passed</th>
                                             <th style="width: 15%;" scope="col">Remarks</th>
                                         </tr>
                                     </thead>
