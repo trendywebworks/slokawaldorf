@@ -281,7 +281,7 @@
                                             <th style="width: 10%;" scope="col">Year</th>
                                             <th style="width: 15%;" scope="col">No. of Registered Students</th>
                                             <th style="width: 15%;" scope="col">No. of Students Passed</th>
-                                            <th style="width: 15%;" scope="col">Remarks</th>
+                                            <th style="width: 15%;" scope="col">Pass Percentage</th>
                                         </tr>
                                     </thead>
                                     <tbody>                                        
