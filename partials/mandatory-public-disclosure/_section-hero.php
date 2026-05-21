@@ -27,11 +27,3 @@
 </section><!-- end hero section -->
 <div class="line-container"></div>
 <!-- start information section -->
-
-<section
-    class="cover-background z-index-3 sm-Bg-Curve no-padding-bottom padding-40px-tb sm-padding-30px-top sm-no-padding-bottom"
-    style="background-image: url('https://slokawaldorf.in/wp-content/themes/sloka/images/Home-Bg-01-02-02.png');">
-    <div class="container">
-        <div class="row justify-content-center padding-five-bottom"></div>
-    </div>
-</section><!-- end information section -->
