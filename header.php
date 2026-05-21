@@ -286,6 +286,7 @@
 													<li> <a href="<?php echo esc_url( home_url( '/' ) ); ?>/lower-school/"> Lower School </a>  </li> 
 													<li> <a href="<?php echo esc_url( home_url( '/' ) ); ?>/middle-school/"> Middle School </a>  </li> 
 													<li> <a href="<?php echo esc_url( home_url( '/' ) ); ?>/high-school/"> High School </a>  </li>
+                                                    <li> <a href="<?php echo esc_url( home_url( '/' ) ); ?>/mandatory-public-disclosure/"> Mandatory Public Disclosure </a>  </li>
                                                 </ul>
                                                 <!-- end sub menu item  -->
                                             </li>
