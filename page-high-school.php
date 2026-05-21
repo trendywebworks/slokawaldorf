@@ -11,7 +11,6 @@ get_template_part( 'partials/high-school/_section', 'notes' );
 get_template_part( 'partials/high-school/_section', 'activities' );
 get_template_part( 'partials/high-school/_section', 'career' );
 get_template_part( 'partials/high-school/_section', 'stories' );
-get_template_part( 'partials/high-school/_section', 'cbse-info' );
 get_template_part( 'partials/high-school/_section', 'join' );
 get_footer();
 ?>
